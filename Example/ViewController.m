@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "SCClassProperty.h"
-#import "SCProperty.h"
+#import "SCClassProperty.h"
 #import "SCTestObject.h"
 #import "SCPropertyInspector.h"
 

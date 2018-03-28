@@ -9,6 +9,13 @@
 
 @interface SCClassCreator : NSObject
 
+/**
+ * create class
+ * @param className  the name of class
+ * @param superclass super's class
+ * @return the created class
+ */
+Class SCCreateClass(const char *className, Class superclass);
 
 
 @end
